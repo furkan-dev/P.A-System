@@ -1,3 +1,10 @@
+#
+#
+# 01.08.17 tuesday
+# coded by 'furkan-dev'
+#
+#
+
 import os
 import datetime
 
