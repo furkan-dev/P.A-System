@@ -19,7 +19,7 @@ if(x == "Türkçe"):
 		if(c == "evet"):
 			os.system("google-chrome-stable")
 			os.system("spotify")
-			os.system("/home/furkan/Masaüstü/Telegram/Telegram")
+			os.system("")
 
 		else:
 			print("Sistem kapatılıyor...")
@@ -43,7 +43,7 @@ elif(x == "English"):
 		if(c == "yes"):
 			os.system("google-chrome-stable")
 			os.system("spotify")
-			os.system("/home/furkan/Masaüstü/Telegram/Telegram")
+			os.system("")
 
 		else:
 			print("The system is shutting down..")
